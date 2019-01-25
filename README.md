@@ -7,7 +7,7 @@ Program to generate solution of sudoku problem using node.
 Run the following commands.
 
 ``` bash
-git clone https://github.com/virendra71072/sudoku
+git clone https://github.com/virendra71072/sudoku.git
 cd sudoku
 node index.js
 
