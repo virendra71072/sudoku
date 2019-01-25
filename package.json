@@ -1,0 +1,16 @@
+{
+  "name": "sudoku",
+  "version": "0.0.0",
+  "description": "Program to generate solution of sudoku problem",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "sudoku",
+    "es6",
+    "puzzle"
+  ],
+  "author": "Virendra kumar singh <virenra71072@gmail.com>",
+  "license": "",
+  "devDependencies": {}
+}
